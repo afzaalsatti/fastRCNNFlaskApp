@@ -1,0 +1,10 @@
+Flask
+pyyaml==5.1
+numpy===1.18.5
+tensorflow==2.3.0
+torch==2.0.1
+opencv-python
+torchvision
+cloudpickle
+omegaconf
+matplotlib
